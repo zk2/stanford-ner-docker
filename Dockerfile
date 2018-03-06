@@ -1,5 +1,6 @@
 FROM java:8
-MAINTAINER Dmitry Sadovnychyi (ner@dmit.ro)
+
+MAINTAINER Evgeniy Budanov <budanov.ua@gmail.com>
 
 RUN apt-get install -y \
       unzip \
